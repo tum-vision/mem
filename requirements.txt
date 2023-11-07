@@ -1,0 +1,17 @@
+wandb
+torch
+torchvision
+timm==0.4.12
+Pillow
+blobfile
+mypy
+numpy
+pytest
+requests
+einops
+tensorboardX
+deepspeed
+scipy
+h5py==3.7.0
+ConfigArgParse
+matplotlib
