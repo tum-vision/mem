@@ -4,14 +4,14 @@ Masked Event Modelling introduces pretraining on raw event camera data without r
 
 <p align="center">
     <a href="https://vision.in.tum.de/members/klenk">Simon Klenk</a><sup>*, 1</sup> &emsp;
-    <a href="https://lukaskoestler.com">David Bonello</a><sup>*, 1</sup> &emsp;
+    <a href="https://www.linkedin.com/in/david-bonello-3a7085152/">David Bonello</a><sup>*, 1</sup> &emsp;
     <a href="https://lukaskoestler.com">Lukas Koestler</a><sup>*, 1</sup> &emsp;
     <a href="https://arnike.github.io/">Nikita Araslanov</a><sup>1</sup> &emsp;
     <a href="https://vision.in.tum.de/members/cremers">Daniel Cremers</a><sup>1</sup> &emsp;
 </p>
 
 <p align="center">
-    <sub> <sup>1</sup>Computer Vision Group, Technical University of Munich, Germany <br> &emsp;
+    <sup>1</sup>Computer Vision Group, Technical University of Munich, Germany <br> &emsp;
     <sup>*</sup> Equal Contribution.</sup> &emsp;
 </p>
 
