@@ -19,7 +19,7 @@ Masked Event Modelling introduces pretraining on raw event camera data without r
     IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). IEEE, 2024.
 </p>
 
-Link to paper: https://arxiv.org/abs/2212.10368v1
+Link to paper: [arXiv](https://arxiv.org/abs/2212.10368)
 
 Event cameras asynchronously capture brightness changes with low latency, high temporal resolution, and high dynamic range. However, annotation of event data is a costly and laborious process, which limits the use of deep learning methods for classification and other semantic tasks with the event modality. To reduce the dependency on labeled event data, we introduce Masked Event Modeling (MEM), a self-supervised framework for events. Our method pretrains a neural network on unlabeled events, which can originate from any event camera recording. Subsequently, the pretrained model is finetuned on a downstream task, leading to a consistent improvement of the task accuracy.
 For example, our method reaches state-of-the-art classification accuracy across three datasets, N-ImageNet, N-Cars, and N-Caltech101, increasing the top-1 accuracy of previous work by significant margins. When tested on real-world event data, MEM is even superior to supervised RGB-based pretraining. The models pretrained with MEM are also label-efficient and generalize well to the dense task of semantic image segmentation.
